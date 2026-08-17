@@ -1,0 +1,180 @@
+{
+  "landing": {
+    "meta": {
+      "title": "KI-Agent für Revit und Archicad",
+      "description": "Laden Sie Architecton herunter – den MoE-basierten KI-Agenten zum Lesen, Erstellen und Koordinieren von BIM-Modellen in Revit und Archicad.",
+      "ogTitle": "Architecton – KI-Agent für Revit und Archicad",
+      "ogDescription": "Lesen Sie vollständige BIM-Modelle, erstellen Sie native Elemente und koordinieren Sie mehrgeschossige Entwürfe mit spezialisierten KI-Experten."
+    },
+    "nav": {
+      "home": "Architecton Startseite",
+      "primary": "Hauptnavigation",
+      "download": "Download",
+      "capabilities": "Funktionen",
+      "howItWorks": "So funktioniert es",
+      "documentation": "Dokumentation",
+      "getStarted": "Jetzt starten",
+      "open": "Navigation öffnen",
+      "close": "Navigation schließen",
+      "language": "Sprache"
+    },
+    "hero": {
+      "eyebrow": "MoE-basierte KI-Agenten für BIM",
+      "title": "Architecton für\nRevit und Archicad",
+      "description": "Angetrieben von einer Mixture-of-Experts liest Architecton Ihr BIM-Modell, erstellt native Elemente und setzt nur bestätigte Änderungen um—alles über einen einzigen Chat.",
+      "download": "Architecton herunterladen",
+      "discover": "So funktioniert es",
+      "windows": "Windows x64",
+      "versions": "Builds für unterstützte BIM-Versionen",
+      "confirmation": "Sie bestätigen jede Modelländerung",
+      "availability": "Versionsspezifische Builds für Revit und Archicad",
+      "imageAlt": "Architektonisches BIM-Modell mit aktivem Architecton im Planungsworkflow"
+    },
+    "integrations": {
+      "eyebrow": "Architecton herunterladen",
+      "title": "Wählen Sie Revit oder Archicad.",
+      "description": "Wählen Sie Ihre BIM-Anwendung. Auf der nächsten Seite können Sie die passende Host-Version auswählen und Status sowie Anforderungen des Installers prüfen.",
+      "integration": "Integration",
+      "platform": "Plattform",
+      "action": "Aktion",
+      "product": "Architecton für {platform}",
+      "company": "{company}-Integration",
+      "viewVersions": "Versionen anzeigen",
+      "note": "Host-Versionen und Installer-Status werden nach Auswahl einer Plattform angezeigt.",
+      "readDocs": "Installationsanleitung lesen"
+    },
+    "building": {
+      "eyebrow": "KI-Agenten bei der Arbeit",
+      "title": "Erleben Sie, wie ein Briefing zum koordinierten BIM-Modell wird.",
+      "description": "Scrollen Sie, um zu verfolgen, wie Architecton die Anforderungen interpretiert, Räume organisiert und ein prüfbares zweigeschossiges Haus im BIM-Workflow aufbaut.",
+      "prompt": "Ein koordiniertes zweigeschossiges Haus erstellen",
+      "chat": {
+        "request": "Erstelle ein kleines zweigeschossiges Haus mit 6 m × 6 m. Füge Außen- und Innenwände, Decken, Fenster, eine Tür und ein Dach hinzu.",
+        "working": "In Bearbeitung",
+        "placeholder": "Nachricht an Architecton",
+        "approval": "Genehmigung anfordern",
+        "disclaimer": "Architecton kann Fehler machen. Prüfen Sie Änderungen, bevor Sie sie anwenden."
+      },
+      "agent": "Architecton Modellaufbau",
+      "steps": {
+        "brief": "Entwurfsanforderung senden",
+        "plan": "Grundfläche und Basis festlegen",
+        "ground": "Erdgeschosswände aufbauen",
+        "upper": "Obergeschoss hinzufügen",
+        "complete": "Öffnungen einsetzen und Dach fertigstellen"
+      },
+      "status": {
+        "brief": "Gebäudeanforderung wird gelesen",
+        "plan": "Basis und Bodenplatte werden erstellt",
+        "ground": "Erdgeschosswände werden nacheinander platziert",
+        "upper": "Zwischendecke und Obergeschosswände werden hinzugefügt",
+        "complete": "Fenster, Tür und vierseitiges Dach werden eingesetzt"
+      }
+    },
+    "features": {
+      "eyebrow": "Funktionen",
+      "title": "Von einer Anweisung zum vollständigen, editierbaren Gebäude.",
+      "description": "Architecton überführt ein Entwurfsbriefing in koordinierte native Geometrie und entwickelt dasselbe Projekt bei neuen Anforderungen weiter.",
+      "explore": "Plattform auswählen",
+      "items": {
+        "building": {
+          "title": "Vollständige mehrgeschossige Gebäude erzeugen",
+          "description": "Definieren Sie Gebäudetyp, Geschosse, Räume, Erschließung und Entwurfsbedingungen. Architecton entwickelt daraus ein koordiniertes, editierbares Modell.",
+          "detail": "Vollständige Gebäudeerstellung"
+        },
+        "create": {
+          "title": "Native Architekturelemente erstellen",
+          "description": "Erstellen Sie Wände, Decken, Dächer, Türen, Fenster, Räume, Treppen und Ebenen direkt in Revit oder Archicad.",
+          "detail": "Native Elemente der Anwendung"
+        },
+        "revise": {
+          "title": "Den Entwurf entwickeln und überarbeiten",
+          "description": "Ändern Sie Grundrisse, Abmessungen, Elemente oder Parameter durch Folgeanweisungen, ohne den Projektkontext zu verlieren.",
+          "detail": "Iterative Entwurfsentwicklung"
+        },
+        "experts": {
+          "title": "Das Gebäude als System koordinieren",
+          "description": "Verbinden Sie Raumplanung, Form, Erschließung, Projektregeln und technische Randbedingungen zu einem konsistenten Entwurf.",
+          "detail": "Koordinierte Projektlogik"
+        },
+        "read": {
+          "title": "Mit dem aktiven Projekt arbeiten",
+          "description": "Nutzen Sie bestehende Ebenen, Elemente, Parameter, Mengen und Beziehungen als Ausgangspunkt für jede Anforderung.",
+          "detail": "Aktiver Modellkontext"
+        }
+      }
+    },
+    "workflow": {
+      "eyebrow": "So funktioniert Architecton",
+      "title": "Von der Installation zum Gebäude—über einen Chat.",
+      "description": "Wie ein KI-Assistent im Code-Editor arbeitet Architecton direkt in Ihrem Planungswerkzeug. Sie beschreiben das Ergebnis; Architecton versteht das aktive Projekt und hilft bei der Umsetzung.",
+      "steps": {
+        "install": {
+          "title": "Architecton installieren",
+          "description": "Wählen Sie Revit oder Archicad, installieren Sie die Integration und melden Sie sich einmal an."
+        },
+        "chat": {
+          "title": "Chat öffnen",
+          "description": "Architecton öffnet sich direkt neben dem Projekt, an dem Sie bereits arbeiten."
+        },
+        "prompt": {
+          "title": "Beschreiben, was Sie benötigen",
+          "description": "Formulieren Sie eine klare Anfrage in Alltagssprache—von einer Änderung bis zum gesamten Gebäude."
+        },
+        "understand": {
+          "title": "Architecton versteht das Projekt",
+          "description": "Das aktive Modell wird gelesen und die passenden spezialisierten Agenten werden für Ihre Anfrage koordiniert."
+        },
+        "approve": {
+          "title": "Prüfen und freigeben",
+          "description": "Sie behalten die Kontrolle und bestätigen die vorgeschlagene Arbeit, bevor das Projekt geändert wird."
+        },
+        "building": {
+          "title": "Am Gebäude weiterarbeiten",
+          "description": "Native, editierbare Elemente entstehen in Revit oder Archicad und sind bereit für Ihre nächste Anfrage."
+        }
+      },
+      "canvas": {
+        "live": "Aktiver Ablauf",
+        "prompt": "Erstelle ein dreigeschossiges Wohngebäude...",
+        "approved": "Freigegeben",
+        "result": "Editierbares Gebäude im Planungswerkzeug"
+      }
+    },
+    "cta": {
+      "eyebrow": "Eine neue Klasse der BIM-Modellierung",
+      "title": "Von der Anweisung zur\nkoordinierten Architektur.",
+      "description": "Gehen Sie über allgemeine KI-Assistenten und isolierte Automatisierungswerkzeuge hinaus. Architecton verbindet Modellintelligenz, spezialisierte Planungsexperten und native BIM-Ausführung in einem fokussierten Workflow.",
+      "button": "Passenden Architecton-Build finden",
+      "items": {
+        "spatial": {
+          "title": "Räumliche Intelligenz",
+          "description": "Experten analysieren Ebenen, Räume, Erschließung, Beziehungen und das Zusammenspiel der Flächen."
+        },
+        "systems": {
+          "title": "Form und Gebäudesysteme",
+          "description": "Experten koordinieren Geometrie mit Wänden, Öffnungen, Decken, Dächern und weiteren nativen BIM-Elementen."
+        },
+        "rules": {
+          "title": "Regeln und Modelllogik",
+          "description": "Experten bewerten Projektanforderungen und BIM-Struktur und liefern anschließend einen koordinierten Plan zur Freigabe."
+        }
+      }
+    },
+    "footer": {
+      "home": "Architecton Startseite",
+      "description": "MoE-basierte KI-Agenten zum Lesen, Erstellen und Koordinieren von BIM-Modellen.",
+      "product": "Produkt",
+      "resources": "Ressourcen",
+      "legal": "Rechtliches",
+      "capabilities": "Funktionen",
+      "howItWorks": "So funktioniert es",
+      "download": "Download",
+      "documentation": "Dokumentation",
+      "support": "Support",
+      "privacy": "Datenschutz",
+      "terms": "Nutzungsbedingungen",
+      "tagline": "Von der Anweisung zur koordinierten Architektur."
+    }
+  }
+}

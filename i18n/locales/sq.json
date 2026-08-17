@@ -1,0 +1,180 @@
+{
+  "landing": {
+    "meta": {
+      "title": "Agjent AI për Revit dhe Archicad",
+      "description": "Shkarko Architecton, agjentin AI të fuqizuar nga MoE që lexon, krijon dhe koordinon modele BIM në Revit dhe Archicad.",
+      "ogTitle": "Architecton - Agjent AI për Revit dhe Archicad",
+      "ogDescription": "Lexo modele të plota BIM, krijo elemente native dhe koordino ndërtesa shumëkatëshe përmes ekspertëve të specializuar AI."
+    },
+    "nav": {
+      "home": "Ballina e Architecton",
+      "primary": "Navigimi kryesor",
+      "download": "Shkarko",
+      "capabilities": "Mundësitë",
+      "howItWorks": "Si funksionon",
+      "documentation": "Dokumentacioni",
+      "getStarted": "Fillo tani",
+      "open": "Hap navigimin",
+      "close": "Mbyll navigimin",
+      "language": "Gjuha"
+    },
+    "hero": {
+      "eyebrow": "Agjentë AI të fuqizuar nga MoE për BIM",
+      "title": "Architecton për\nRevit dhe Archicad",
+      "description": "I fuqizuar nga Mixture-of-Experts, Architecton lexon modelin tënd BIM, krijon elemente native dhe zbaton vetëm ndryshimet e miratuara—të gjitha përmes një chati.",
+      "download": "Shkarko Architecton",
+      "discover": "Shiko si funksionon",
+      "windows": "Windows x64",
+      "versions": "Build-e për versionet e mbështetura BIM",
+      "confirmation": "Ti miraton çdo ndryshim në model",
+      "availability": "Build-e të posaçme për Revit dhe Archicad",
+      "imageAlt": "Model arkitektonik BIM me Architecton aktiv brenda rrjedhës së projektimit"
+    },
+    "integrations": {
+      "eyebrow": "Shkarko Architecton",
+      "title": "Zgjidh Revit ose Archicad.",
+      "description": "Zgjidh aplikacionin BIM që përdor. Në faqen tjetër mund të zgjedhësh versionin përkatës dhe të kontrollosh statusin dhe kërkesat e instaluesit.",
+      "integration": "Integrimi",
+      "platform": "Platforma",
+      "action": "Veprimi",
+      "product": "Architecton për {platform}",
+      "company": "Integrim me {company}",
+      "viewVersions": "Shiko versionet",
+      "note": "Versionet dhe statusi i instaluesit shfaqen pasi të zgjedhësh platformën.",
+      "readDocs": "Lexo dokumentacionin e instalimit"
+    },
+    "building": {
+      "eyebrow": "Agjentët AI në veprim",
+      "title": "Shiko si një kërkesë bëhet model BIM i koordinuar.",
+      "description": "Lëviz poshtë për të parë si Architecton e kupton kërkesën, organizon hapësirat dhe ndërton një shtëpi dykatëshe të gatshme për kontroll brenda rrjedhës BIM.",
+      "prompt": "Krijo një shtëpi dykatëshe të koordinuar",
+      "chat": {
+        "request": "Krijo një shtëpi të vogël 6 m × 6 m me dy kate. Shto muret e jashtme dhe të brendshme, pllakat, dritaret, një derë dhe çatinë.",
+        "working": "Duke punuar",
+        "placeholder": "Shkruaj në Architecton",
+        "approval": "Kërko miratim",
+        "disclaimer": "Architecton mund të gabojë. Kontrollo ndryshimet para se t’i aplikosh."
+      },
+      "agent": "Procesi i ndërtimit Architecton",
+      "steps": {
+        "brief": "Dërgo kërkesën e projektit",
+        "plan": "Përcakto bazën dhe gjurmën",
+        "ground": "Ndërto muret e përdhesës",
+        "upper": "Shto katin e sipërm",
+        "complete": "Vendos hapjet dhe përfundo çatinë"
+      },
+      "status": {
+        "brief": "Duke lexuar kërkesën për ndërtesën",
+        "plan": "Duke krijuar bazën dhe pllakën e përdhesës",
+        "ground": "Duke vendosur muret e përdhesës një nga një",
+        "upper": "Duke shtuar pllakën ndërmjetëse dhe muret e katit të sipërm",
+        "complete": "Duke vendosur dritaret, derën dhe çatinë katërfaqëshe"
+      }
+    },
+    "features": {
+      "eyebrow": "Mundësitë",
+      "title": "Nga një kërkesë te një ndërtesë e plotë dhe e ndryshueshme.",
+      "description": "Architecton e kthen brief-in e projektimit në gjeometri native të koordinuar dhe vazhdon ta zhvillojë të njëjtin projekt sa herë ndryshojnë kërkesat.",
+      "explore": "Zgjidh platformën tënde",
+      "items": {
+        "building": {
+          "title": "Gjenero ndërtesa të plota shumëkatëshe",
+          "description": "Përcakto tipin e ndërtesës, katet, dhomat, qarkullimin dhe kufizimet e projektimit. Architecton i zhvillon në një model të vetëm, të koordinuar dhe të ndryshueshëm.",
+          "detail": "Krijim i plotë i ndërtesës"
+        },
+        "create": {
+          "title": "Krijo elemente arkitektonike native",
+          "description": "Ndërto mure, pllaka, kulme, dyer, dritare, dhoma, shkallë dhe nivele drejtpërdrejt në Revit ose Archicad.",
+          "detail": "Elemente native të platformës"
+        },
+        "revise": {
+          "title": "Zhvillo dhe ndrysho projektin",
+          "description": "Ndrysho organizimin, dimensionet, elementet ose parametrat përmes kërkesave pasuese, duke ruajtur kontekstin e projektit.",
+          "detail": "Zhvillim i vazhdueshëm i dizajnit"
+        },
+        "experts": {
+          "title": "Koordino ndërtesën si një sistem",
+          "description": "Bashko planifikimin hapësinor, formën, qarkullimin, rregullat e projektit dhe kufizimet teknike në një zgjidhje të qëndrueshme.",
+          "detail": "Logjikë e koordinuar e projektit"
+        },
+        "read": {
+          "title": "Puno nga projekti aktiv",
+          "description": "Përdor nivelet, elementet, parametrat, sasitë dhe lidhjet ekzistuese si pikënisje për çdo kërkesë.",
+          "detail": "Kontekst aktiv i modelit"
+        }
+      }
+    },
+    "workflow": {
+      "eyebrow": "Si funksionon Architecton",
+      "title": "Nga instalimi te ndërtesa—përmes një chati.",
+      "description": "Sikur një asistent AI brenda editorit të kodit, Architecton punon brenda mjetit tënd të projektimit. Ti përshkruan rezultatin; ai kupton projektin aktiv dhe ndihmon ta ndërtosh.",
+      "steps": {
+        "install": {
+          "title": "Instalo Architecton",
+          "description": "Zgjidh Revit ose Archicad, instalo integrimin dhe kyçu vetëm një herë."
+        },
+        "chat": {
+          "title": "Hape chatin",
+          "description": "Architecton hapet direkt pranë projektit ku tashmë je duke punuar."
+        },
+        "prompt": {
+          "title": "Përshkruaj çfarë të nevojitet",
+          "description": "Shkruaj një kërkesë të qartë me gjuhë të zakonshme—nga një ndryshim te një ndërtesë e plotë."
+        },
+        "understand": {
+          "title": "Architecton e kupton projektin",
+          "description": "Ai lexon modelin aktiv dhe koordinon agjentët e duhur të specializuar rreth kërkesës tënde."
+        },
+        "approve": {
+          "title": "Kontrollo dhe mirato",
+          "description": "Ti ruan kontrollin dhe konfirmon punën e propozuar para se projekti të ndryshojë."
+        },
+        "building": {
+          "title": "Vazhdo me ndërtesën",
+          "description": "Elementet native dhe të ndryshueshme krijohen në Revit ose Archicad, gati për kërkesën tjetër."
+        }
+      },
+      "canvas": {
+        "live": "Rrjedha aktive",
+        "prompt": "Krijo një ndërtesë banimi me tri kate...",
+        "approved": "U miratua",
+        "result": "Ndërtesë e ndryshueshme në mjetin tënd"
+      }
+    },
+    "cta": {
+      "eyebrow": "Një klasë e re e modelimit BIM",
+      "title": "Nga kërkesa te\narkitektura e koordinuar.",
+      "description": "Kalo përtej asistentëve të zakonshëm AI dhe mjeteve të shkëputura të automatizimit. Architecton bashkon inteligjencën e modelit, ekspertët e specializuar të dizajnit dhe ekzekutimin native BIM në një rrjedhë të fokusuar pune.",
+      "button": "Gjej build-in tënd Architecton",
+      "items": {
+        "spatial": {
+          "title": "Inteligjencë hapësinore",
+          "description": "Ekspertët analizojnë nivelet, dhomat, qarkullimin, marrëdhëniet dhe mënyrën se si hapësirat funksionojnë së bashku."
+        },
+        "systems": {
+          "title": "Forma dhe sistemet e ndërtesës",
+          "description": "Ekspertët koordinojnë gjeometrinë me muret, hapjet, dyshemetë, kulmet dhe elementet e tjera native BIM."
+        },
+        "rules": {
+          "title": "Rregullat dhe logjika e modelit",
+          "description": "Ekspertët vlerësojnë kufizimet dhe strukturën BIM, pastaj kthejnë një plan të koordinuar për miratimin tënd."
+        }
+      }
+    },
+    "footer": {
+      "home": "Ballina e Architecton",
+      "description": "Agjentë AI të fuqizuar nga MoE për leximin, krijimin dhe koordinimin e modeleve BIM.",
+      "product": "Produkti",
+      "resources": "Burimet",
+      "legal": "Ligjore",
+      "capabilities": "Mundësitë",
+      "howItWorks": "Si funksionon",
+      "download": "Shkarko",
+      "documentation": "Dokumentacioni",
+      "support": "Mbështetja",
+      "privacy": "Privatësia",
+      "terms": "Kushtet",
+      "tagline": "Nga kërkesa te arkitektura e koordinuar."
+    }
+  }
+}

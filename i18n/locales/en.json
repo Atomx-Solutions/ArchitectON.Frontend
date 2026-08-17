@@ -1,0 +1,180 @@
+{
+  "landing": {
+    "meta": {
+      "title": "AI Agent for Revit & Archicad",
+      "description": "Download Architecton, the MoE-powered AI agent that reads, creates, and coordinates BIM models in Revit and Archicad.",
+      "ogTitle": "Architecton - AI Agent for Revit & Archicad",
+      "ogDescription": "Read complete BIM models, create native elements, and coordinate multi-storey designs through specialized AI experts."
+    },
+    "nav": {
+      "home": "Architecton home",
+      "primary": "Primary navigation",
+      "download": "Download",
+      "capabilities": "Capabilities",
+      "howItWorks": "How it works",
+      "documentation": "Documentation",
+      "getStarted": "Get started",
+      "open": "Open navigation",
+      "close": "Close navigation",
+      "language": "Language"
+    },
+    "hero": {
+      "eyebrow": "MoE-powered AI agents for BIM",
+      "title": "Architecton for\nRevit & Archicad",
+      "description": "Powered by a Mixture-of-Experts, Architecton reads your BIM model, creates native elements, and applies only approved changes—all through one chat.",
+      "download": "Download Architecton",
+      "discover": "See how it works",
+      "windows": "Windows x64",
+      "versions": "Builds for supported BIM versions",
+      "confirmation": "You approve every model change",
+      "availability": "Version-specific builds for Revit and Archicad",
+      "imageAlt": "Architectural BIM model with Architecton active inside the authoring workflow"
+    },
+    "integrations": {
+      "eyebrow": "Download Architecton",
+      "title": "Choose Revit or Archicad.",
+      "description": "Select the BIM application you use. On the next page, you can choose the matching host version and review its installer status and requirements.",
+      "integration": "Integration",
+      "platform": "Platform",
+      "action": "Action",
+      "product": "Architecton for {platform}",
+      "company": "{company} integration",
+      "viewVersions": "View versions",
+      "note": "Host versions and installer status are shown after you select a platform.",
+      "readDocs": "Read installation documentation"
+    },
+    "building": {
+      "eyebrow": "AI agents at work",
+      "title": "Watch a brief become a coordinated BIM model.",
+      "description": "Scroll to follow Architecton as it interprets the request, organizes the spaces, and assembles a reviewable two-storey house inside the BIM workflow.",
+      "prompt": "Create a coordinated two-storey house",
+      "chat": {
+        "request": "Create a small 6 m × 6 m, two-storey house. Add exterior and interior walls, floors, windows, a door, and a roof.",
+        "working": "Working",
+        "placeholder": "Message Architecton",
+        "approval": "Ask for approval",
+        "disclaimer": "Architecton can make mistakes. Review changes before applying them."
+      },
+      "agent": "Architecton build sequence",
+      "steps": {
+        "brief": "Submit the design brief",
+        "plan": "Set out the footprint and base",
+        "ground": "Build the ground-storey walls",
+        "upper": "Add the upper storey",
+        "complete": "Install openings and finish the roof"
+      },
+      "status": {
+        "brief": "Reading the building request",
+        "plan": "Creating the site base and ground slab",
+        "ground": "Placing the ground-storey walls one by one",
+        "upper": "Adding the intermediate slab and upper-storey walls",
+        "complete": "Installing windows, door, and four-sided roof"
+      }
+    },
+    "features": {
+      "eyebrow": "Capabilities",
+      "title": "From one prompt to a complete, editable building.",
+      "description": "Architecton turns a design brief into coordinated native geometry, then keeps developing the same project as requirements change.",
+      "explore": "Choose your platform",
+      "items": {
+        "building": {
+          "title": "Generate complete multi-storey buildings",
+          "description": "Describe the building type, levels, rooms, circulation, and design constraints. Architecton develops them into one coordinated, editable model.",
+          "detail": "Complete building authoring"
+        },
+        "create": {
+          "title": "Create native architectural elements",
+          "description": "Build walls, floors, roofs, doors, windows, rooms, stairs, and levels directly in Revit or Archicad.",
+          "detail": "Native host elements"
+        },
+        "revise": {
+          "title": "Develop and revise the design",
+          "description": "Change layouts, dimensions, elements, or parameters through follow-up prompts while preserving the project context.",
+          "detail": "Iterative design development"
+        },
+        "experts": {
+          "title": "Coordinate the building as one system",
+          "description": "Bring spatial planning, form, circulation, project rules, and technical constraints into one consistent design.",
+          "detail": "Coordinated project logic"
+        },
+        "read": {
+          "title": "Work from the active project",
+          "description": "Use existing levels, elements, parameters, quantities, and relationships as the starting point for every request.",
+          "detail": "Active model context"
+        }
+      }
+    },
+    "workflow": {
+      "eyebrow": "How Architecton works",
+      "title": "From installation to a building—through one chat.",
+      "description": "Like an AI coding assistant inside an editor, Architecton works inside your design tool. You describe the result; it understands the active project and helps build it.",
+      "steps": {
+        "install": {
+          "title": "Install Architecton",
+          "description": "Choose Revit or Archicad, install the integration, and sign in once."
+        },
+        "chat": {
+          "title": "Open the chat",
+          "description": "Architecton opens directly beside the project you are already working on."
+        },
+        "prompt": {
+          "title": "Describe what you need",
+          "description": "Write a clear request in everyday language—from one change to an entire building."
+        },
+        "understand": {
+          "title": "Architecton understands the project",
+          "description": "It reads the active model and coordinates the right specialized agents around your request."
+        },
+        "approve": {
+          "title": "Review and approve",
+          "description": "You remain in control and confirm the proposed work before it changes the project."
+        },
+        "building": {
+          "title": "Continue with the building",
+          "description": "Native, editable elements are created in Revit or Archicad, ready for your next prompt."
+        }
+      },
+      "canvas": {
+        "live": "Live workflow",
+        "prompt": "Create a three-storey residential building...",
+        "approved": "Approved",
+        "result": "Editable building in your design tool"
+      }
+    },
+    "cta": {
+      "eyebrow": "A new class of BIM authoring",
+      "title": "From prompt to\ncoordinated architecture.",
+      "description": "Move beyond generic AI assistants and disconnected automation tools. Architecton combines model intelligence, specialized design experts, and native BIM execution in one focused workflow.",
+      "button": "Find your Architecton build",
+      "items": {
+        "spatial": {
+          "title": "Spatial intelligence",
+          "description": "Experts reason about levels, rooms, circulation, relationships, and the way spaces work together."
+        },
+        "systems": {
+          "title": "Form and building systems",
+          "description": "Experts coordinate geometry with walls, openings, floors, roofs, and other native BIM elements."
+        },
+        "rules": {
+          "title": "Rules and model logic",
+          "description": "Experts evaluate project constraints and BIM structure, then return a coordinated plan for your approval."
+        }
+      }
+    },
+    "footer": {
+      "home": "Architecton home",
+      "description": "MoE-powered AI agents for reading, creating, and coordinating BIM models.",
+      "product": "Product",
+      "resources": "Resources",
+      "legal": "Legal",
+      "capabilities": "Capabilities",
+      "howItWorks": "How it works",
+      "download": "Download",
+      "documentation": "Documentation",
+      "support": "Support",
+      "privacy": "Privacy",
+      "terms": "Terms",
+      "tagline": "From prompt to coordinated architecture."
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "name": "architecton-frontend",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare",
+    "typecheck:ts": "tsc -b --pretty false",
+    "check": "npm run typecheck:ts && npm run build"
+  },
+  "dependencies": {
+    "@iconify-json/lucide": "^1.2.121",
+    "@lucide/vue": "^1.28.0",
+    "@nuxt/ui": "^4.10.0",
+    "@supabase/supabase-js": "^2.112.1",
+    "nuxt": "^4.5.2",
+    "vue": "^3.5.40",
+    "vue-router": "^5.2.0",
+    "zod": "^4.4.3"
+  },
+  "devDependencies": {
+    "@nuxtjs/i18n": "^10.6.0",
+    "@types/node": "^26.1.2",
+    "tailwindcss": "^4.3.3",
+    "typescript": "^6.0.3"
+  },
+  "engines": {
+    "node": ">=22.0.0"
+  }
+}
