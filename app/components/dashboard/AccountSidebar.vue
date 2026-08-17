@@ -32,7 +32,9 @@ const initials = computed(() => (props.profile?.display_name || props.profile?.e
     <template #header>
       <div class="flex w-full items-center justify-between gap-3 px-1">
         <NuxtLink to="/" class="inline-flex min-w-0 items-center gap-2.5 text-sm font-semibold text-highlighted">
-          <span class="grid size-7 shrink-0 place-items-center rounded-lg bg-[#111512] text-[11px] font-bold text-white">A</span>
+          <span class="size-7 shrink-0 overflow-hidden rounded-lg bg-white">
+            <img src="/images/Icon.jpeg" alt="" class="size-full scale-125 object-cover -translate-y-[6%]" />
+          </span>
           <span class="truncate">Architecton</span>
         </NuxtLink>
         <UDashboardSidebarCollapse />

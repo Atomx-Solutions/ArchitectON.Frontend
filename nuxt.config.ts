@@ -21,6 +21,9 @@ export default defineNuxtConfig({
       meta: [
         { name: 'theme-color', content: '#101412' },
         { name: 'description', content: 'Architecton is an AI assistant built into Revit and Archicad workflows.' }
+      ],
+      link: [
+        { rel: 'icon', type: 'image/jpeg', href: '/images/Icon.jpeg' }
       ]
     }
   },

@@ -243,8 +243,7 @@ const submit = async () => {
     <div class="relative mx-auto grid h-svh w-full max-w-7xl grid-cols-[55%_45%] overflow-hidden max-[900px]:block max-[900px]:h-auto max-[900px]:min-h-svh max-[900px]:overflow-visible">
     <header class="pointer-events-none absolute inset-x-0 top-0 z-30 flex h-[76px] items-center justify-between px-[clamp(24px,3.5vw,58px)] max-[900px]:h-[68px] max-[900px]:px-5 max-[480px]:px-4">
       <NuxtLink to="/" aria-label="Architecton home" class="pointer-events-auto inline-flex items-center gap-3 text-sm font-extrabold tracking-[.025em] text-white focus-visible:outline-2 focus-visible:outline-offset-3 focus-visible:outline-[#11c5db]">
-        <span class="grid size-8 place-items-center border border-[#63d6df] text-sm text-[#63d6df]">A</span>
-        <span>ARCHITECT<span class="text-[#11c5db]">ON</span></span>
+        <img src="/images/Logo-transparent.png" alt="ArchitectON" class="h-12 w-auto object-contain" />
       </NuxtLink>
       <NuxtLink to="/" class="pointer-events-auto inline-flex items-center gap-2.5 text-xs font-semibold text-[#737c76] transition-colors hover:text-[#111614] focus-visible:outline-2 focus-visible:outline-offset-3 focus-visible:outline-[#11c5db] max-[900px]:text-[#bac3be] max-[480px]:grid max-[480px]:size-9 max-[480px]:place-items-center max-[480px]:gap-0 max-[480px]:border max-[480px]:border-white/20 max-[480px]:text-[0]">
         <UIcon name="i-lucide-arrow-left" class="size-4" />

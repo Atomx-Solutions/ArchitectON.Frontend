@@ -54,8 +54,8 @@ const adminInitials = computed(() => {
   >
     <template #header="{ collapsed }">
       <div class="flex min-w-0 flex-1 items-center gap-3">
-        <span class="grid size-9 shrink-0 place-items-center rounded-lg bg-primary font-bold text-inverted shadow-sm">
-          A
+        <span class="size-9 shrink-0 overflow-hidden rounded-lg bg-white shadow-sm">
+          <img src="/images/Icon.jpeg" alt="" class="size-full scale-125 object-cover -translate-y-[6%]" />
         </span>
         <div v-if="!collapsed" class="min-w-0">
           <p class="truncate text-sm font-semibold text-highlighted">
